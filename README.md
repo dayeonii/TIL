@@ -30,6 +30,9 @@
 
 <!-- TIL_INDEX_START -->
 
+- [Git](./Git/)
+- [Java](./Java/)
+
 <!-- TIL_INDEX_END -->
 
 ---
