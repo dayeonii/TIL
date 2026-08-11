@@ -30,6 +30,7 @@
 
 <!-- TIL_INDEX_START -->
 
+- [Algorithm](./Algorithm/)
 - [Git](./Git/)
 - [Java](./Java/)
 
